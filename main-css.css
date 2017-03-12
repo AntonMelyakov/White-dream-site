@@ -1,0 +1,135 @@
+body {
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+0,f1f1f1+29,e1e1e1+61,f1f1f1+85,f6f6f6+100 */
+  background: #ffffff; /* Old browsers */
+  background: -moz-linear-gradient(top,  #ffffff 0%, #f1f1f1 29%, #e1e1e1 61%, #f1f1f1 85%, #f6f6f6 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(top,  #ffffff 0%,#f1f1f1 29%,#e1e1e1 61%,#f1f1f1 85%,#f6f6f6 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom,  #ffffff 0%,#f1f1f1 29%,#e1e1e1 61%,#f1f1f1 85%,#f6f6f6 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#f6f6f6',GradientType=0 ); /* IE6-9 */
+
+  height: 100%;
+}
+
+.header {
+  display: block;
+  margin: auto;
+}
+
+.menu {
+  background-color: #0076ee;
+  width: 1000px;
+  margin: auto;
+  height: 40px;
+}
+
+.on-top {
+  position: fixed;
+  top: 0px;
+  margin: auto;
+  left: 0;
+  right: 0;
+
+
+}
+
+.nav {
+  margin: auto;
+  text-align: center;
+}
+
+.menu-text {
+  text-decoration: none;
+  font-family: 'Kurale', serif;
+  font-size: 25px;
+  margin-right: 25px;
+  margin-left: 25px;
+  color: #7ee788;
+  cursor: pointer;
+}
+
+.menu-text:active {
+  color: white;
+}
+
+.site-page {
+  background-color: white;
+  width: 1000px;
+  margin: auto;
+}
+
+#wh-s-fp{
+  margin-top: 70px;
+  margin-left: 50px;
+  display: inline;
+  float: left;
+}
+
+#fp-article {
+  display: inline-block;
+  width: 450px;
+  font-family: 'Kurale', serif;
+  font-size: 25px;
+  margin: 45px;
+}
+
+.article {
+  font-family: 'Kurale', serif;
+  font-size: 25px;
+}
+
+footer {
+  margin-top: 5px;
+}
+
+/* about-us page */
+
+#img-soaps {
+  margin-top: 50px;
+  margin-left: 40px;
+  display: inline;
+  float: left;
+}
+
+#au-article {
+  display: inline-block;
+  width: 550px;
+  margin-top: 10px;
+  margin-left: 45px;
+}
+
+#img-soaps2{
+  display: block;
+  margin: auto;
+}
+
+#au-article2{
+  margin: 30px auto;
+  width: 95%;
+}
+
+/* contact page */
+
+#contact-menu{
+  display: inline;
+  float: left;
+  margin-top: 30px;
+  margin-left: 50px;
+  border: 2px dashed #0076ee;
+  width: 250px;
+  padding: 15px;
+
+}
+
+.contact {
+  margin-bottom: 25px;
+}
+
+#ct-article{
+  display: inline-block;
+  width: 550px;
+  margin-left: 45px;
+}
+
+#soaps-contacts{
+  display: block;
+  margin: 20px auto;
+}
